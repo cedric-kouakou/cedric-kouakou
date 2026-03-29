@@ -1,7 +1,4 @@
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/VOTRE_USER_ID" width="220" style="border-radius:50%" alt="KOUAKOU YAO CEDRIC ROLAND">
-  <!-- Remplace l'URL ci-dessus par ton image personnalisée avec bulle JS/React/Flutter si tu veux le style exact de Sanogo -->
-</div>
+
 
 <h1 align="center">Hi there 👋 I'm KOUAKOU YAO CEDRIC ROLAND</h1>
 

@@ -12,7 +12,6 @@
 transformant des idées brutes en applications modernes, intuitives et prêtes à évoluer.
 
 - 💻 Je suis intéressé par tout ce qui touche au développement : **Web Development**, **Mobile Development**, **Backend** et **Modern Frameworks**
-- 🎵 Parle-moi de **Musique**, **Lecture**, **Recherche** et **Programmation**
 
 ---
 

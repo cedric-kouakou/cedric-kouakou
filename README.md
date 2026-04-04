@@ -16,5 +16,6 @@ transformant des idées brutes en applications modernes, intuitives et prêtes �
 ---
 
 ### My Tech Stack
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,php,py,react,nextjs,flutter,tailwind,laravel,nodejs,express,django,mysql,postgres,firebase,prisma,sqlite&perline=8" />
+</p> 
